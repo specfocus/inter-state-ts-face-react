@@ -1,2 +1,2 @@
-# inter-state-ts-react
+# inter-state-ts-face-react
 XState react
